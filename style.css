@@ -3,7 +3,7 @@ body{
     padding: 0%;
     box-sizing: border-box;
     font-family: sans-serif;
-    background-image: url("src/ratul21.jpg");
+    background-image: url("ratul21.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,7 +37,7 @@ nav ul li a:hover{
        color: rgb(233, 8, 8);
    }
 .contact{
-    margin-top: 10%;
+    margin-top: 8%;
     margin-left: 30px;
 }
 .contact h1{
